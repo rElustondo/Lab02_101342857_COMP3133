@@ -1,0 +1,17 @@
+{
+  "name": "labex_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.0.3",
+    "mocha": "^10.2.0"
+  }
+}
